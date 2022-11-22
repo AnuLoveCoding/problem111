@@ -53,5 +53,12 @@ public class problem7 {
             int [] nums = {1,2,1};
             System.out.println(getConcatenation(nums));
 
+
+
+
+
+
+
+
     }
 }
