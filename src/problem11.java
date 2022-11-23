@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class problem11 {
-    public static boolean identity_matrix(int [][] arr){
+    public static boolean identity_matrix(final int [][] arr){
 
         if(arr.length!= arr[0].length){
             return false;
@@ -27,7 +27,6 @@ public class problem11 {
 //        You have to tell whether A is an identity matrix or not.
         System.out.println("Enter size of arr");
         int n = scn.nextInt();
-        System.out.println("Enter size of arr");
         int [][] arr = new int[n][n];
 
         for(int i=0;i<arr.length;i++){

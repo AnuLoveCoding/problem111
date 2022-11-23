@@ -97,13 +97,6 @@
       <option name="presentableId" value="Default" />
       <updated>1667504660739</updated>
     </task>
-    <task id="LOCAL-00001" summary="git commit -m &quot;ArrayProblem&quot;">
-      <created>1667504808901</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1667504808901</updated>
-    </task>
     <task id="LOCAL-00002" summary="git commit -m &quot;ArrayProblem&quot;">
       <created>1667540527609</created>
       <option name="number" value="00002" />
@@ -440,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669227649634</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="git commit -m &quot;2D ArrayProblem&quot;">
+      <created>1669228061788</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1669228061791</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
