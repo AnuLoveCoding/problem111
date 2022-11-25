@@ -39,7 +39,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.problem13">
+  <component name="RunManager" selected="Application.problem14">
     <configuration name="problem10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problem10" />
       <module name="ArrayProblem" />
@@ -61,8 +61,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="problem8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem8" />
+    <configuration name="problem14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem14" />
       <module name="ArrayProblem" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem14" />
         <item itemvalue="Application.problem13" />
         <item itemvalue="Application.problem11" />
         <item itemvalue="Application.problem10" />
         <item itemvalue="Application.problem9" />
-        <item itemvalue="Application.problem8" />
       </list>
     </recent_temporary>
   </component>
