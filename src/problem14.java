@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class problem14 {
-
     public static int factors(int n){
         int count =0;
         for(int i=1;i*i<=n;i++){
@@ -21,6 +20,8 @@ public class problem14 {
         int n=scn.nextInt();
 
         System.out.println("Factors of count = "+factors(n));
+
+
 
     }
 }
