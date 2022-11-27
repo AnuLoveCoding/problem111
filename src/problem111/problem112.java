@@ -6,6 +6,7 @@ public class problem112 {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
 
+        System.out.println("Enter your Input : ");
         String sentence = scn.nextLine();
 
         String vowel ="";
@@ -15,12 +16,16 @@ public class problem112 {
             char ch = sentence.charAt(i);
             if(ch=='a'|| ch=='e'||ch=='i'||ch=='o'||ch=='u'){
                 vowel+=ch;
-            }else{
+            }else if(ch==' '){
+                 continue;
+            } else {
                 consonant+=ch;
             }
         }
 
-        System.out.println(vowel+" ");
-        System.out.println(consonant+" ");
+        System.out.println(vowel.toUpperCase());
+        System.out.println(consonant.toLowerCase());
+
+
     }
 }
