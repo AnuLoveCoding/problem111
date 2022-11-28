@@ -9,7 +9,7 @@ public class problem12 {
 
         for (int i = 0; i <arr.length ; i++) {
             if(arr[i]==b){
-                fi = arr[i];
+                fi = i;
                 c[0] =fi;
                 break;
             }
@@ -17,7 +17,7 @@ public class problem12 {
 
         for (int i = arr.length-1; i>=0 ; i--) {
             if(arr[i]==b){
-                li =arr[i];
+                li = i;
                 c[1]=li;
                 break;
             }
@@ -28,13 +28,24 @@ public class problem12 {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
 
-        int n = scn.nextInt();
-        int [] arr = new int [n];
+//        (Q.1) find the first_index and last_index of array;
+            System.out.println("Enter Your arr size");
+            int n = scn.nextInt();
+            int [] arr = new int [n];
 
-        for (int i = 0; i < arr.length ; i++) {
-            arr[i]= scn.nextInt();
+            System.out.println("Enter your arr value");
+            for (int i = 0; i < arr.length ; i++) {
+                arr[i]= scn.nextInt();
+            }
+
+            System.out.println("Enter your search value");
+            int b = scn.nextInt();
+
+            int [] arr1 = first_last(arr,b);
+
+            for (int i = 0; i <arr1.length ; i++) {
+            System.out.print(arr1[i]+" ");
         }
 
-        int b = scn.nextInt();
     }
 }
