@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eec3f572-e8ae-4c00-a741-2a3dd51388ae" name="Changes" comment="git commit -m &quot;2D ArrayProblem&quot;">
+      <change afterPath="$PROJECT_DIR$/src/problem17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/problem12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem12.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.problem12">
-    <configuration name="problem11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem11" />
-      <module name="ArrayProblem" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.problem17">
     <configuration name="problem112" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problem111.problem112" />
       <module name="ArrayProblem" />
@@ -84,13 +77,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="problem17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem17" />
+      <module name="ArrayProblem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem17" />
         <item itemvalue="Application.problem12" />
         <item itemvalue="Application.problem112" />
         <item itemvalue="Application.problem14" />
         <item itemvalue="Application.problem13" />
-        <item itemvalue="Application.problem11" />
       </list>
     </recent_temporary>
   </component>
