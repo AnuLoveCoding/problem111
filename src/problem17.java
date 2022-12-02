@@ -1,8 +1,7 @@
 import java.util.Scanner;
 
 public class problem17 {
-
-    public static int [] solve(int [] arr , int b){
+    public static int[] solve(int [] arr , int b){
         int [] arr1 = new int [arr.length];
 
         for (int i = 0; i <arr.length ; i++) {
@@ -29,6 +28,7 @@ public class problem17 {
 
         int [] ans = solve(arr,b);
 
+        System.out.println("Print value of arr");
         for(int i=0;i<ans.length;i++){
             System.out.print(ans[i]+" ");
         }
