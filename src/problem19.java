@@ -5,19 +5,17 @@ public class problem19 {
         int max = arr[0];
         int min = arr[0];
 
-        for (int i = 0; i <arr.length ; i++) {
-            if(arr[i]>max){
-                max=arr[i];
+        for (int j : arr) {
+            if (j > max) {
+                max = j;
             }
 
-            if(arr[i]<min){
-                min = arr[i];
+            if (j < min) {
+                min = j;
             }
         }
 
-        int diff = max + min;
-
-        return diff;
+        return max + min;
     }
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
