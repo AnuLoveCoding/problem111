@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eec3f572-e8ae-4c00-a741-2a3dd51388ae" name="Changes" comment="git commit -m &quot;2D ArrayProblem&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/problem20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/problem20.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,13 +96,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667504660739</updated>
-    </task>
-    <task id="LOCAL-00022" summary="git commit -m &quot;ArrayProblem&quot;">
-      <created>1667762308032</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1667762308032</updated>
     </task>
     <task id="LOCAL-00023" summary="git commit -m &quot;ArrayProblem&quot;">
       <created>1667762980864</created>
@@ -439,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670003994417</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="git commit -m &quot;2D ArrayProblem&quot;">
+      <created>1670004877625</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1670004877627</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
