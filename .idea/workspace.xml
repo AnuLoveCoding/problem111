@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eec3f572-e8ae-4c00-a741-2a3dd51388ae" name="Changes" comment="git commit -m &quot;2D ArrayProblem&quot;">
-      <change afterPath="$PROJECT_DIR$/src/probelm21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem44.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.problem20">
+  <component name="RunManager" selected="Application.problem44">
     <configuration name="Problem18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Problem18" />
       <module name="ArrayProblem" />
@@ -50,15 +50,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="problem12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem12" />
-      <module name="ArrayProblem" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="problem17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="problem17" />
+    <configuration name="probelm21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="probelm21" />
       <module name="ArrayProblem" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,13 +71,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="problem44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem44" />
+      <module name="ArrayProblem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem44" />
+        <item itemvalue="Application.probelm21" />
         <item itemvalue="Application.problem20" />
         <item itemvalue="Application.problem19" />
         <item itemvalue="Application.Problem18" />
-        <item itemvalue="Application.problem17" />
-        <item itemvalue="Application.problem12" />
       </list>
     </recent_temporary>
   </component>
@@ -96,13 +96,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667504660739</updated>
-    </task>
-    <task id="LOCAL-00024" summary="git commit -m &quot;ArrayProblem&quot;">
-      <created>1667822141005</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1667822141005</updated>
     </task>
     <task id="LOCAL-00025" summary="git commit -m &quot;ArrayProblem&quot;">
       <created>1667823781033</created>
@@ -440,7 +433,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670089898395</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="git commit -m &quot;2D ArrayProblem&quot;">
+      <created>1670175851678</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1670175851678</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
