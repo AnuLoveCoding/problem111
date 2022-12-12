@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eec3f572-e8ae-4c00-a741-2a3dd51388ae" name="Changes" comment="git commit -m &quot;2D ArrayProblem&quot;">
-      <change afterPath="$PROJECT_DIR$/src/problem44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/problem25.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,21 +35,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "ToolWindowRun.ShowToolbar": "false",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
-  <component name="RunManager" selected="Application.problem44">
-    <configuration name="Problem18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Problem18" />
-      <module name="ArrayProblem" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+}]]></component>
+  <component name="RunManager" selected="Application.problem25">
     <configuration name="probelm21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="probelm21" />
       <module name="ArrayProblem" />
@@ -71,6 +65,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="problem25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="problem25" />
+      <module name="ArrayProblem" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="problem44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="problem44" />
       <module name="ArrayProblem" />
@@ -80,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.problem25" />
         <item itemvalue="Application.problem44" />
         <item itemvalue="Application.probelm21" />
         <item itemvalue="Application.problem20" />
         <item itemvalue="Application.problem19" />
-        <item itemvalue="Application.Problem18" />
       </list>
     </recent_temporary>
   </component>
@@ -96,20 +97,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667504660739</updated>
-    </task>
-    <task id="LOCAL-00025" summary="git commit -m &quot;ArrayProblem&quot;">
-      <created>1667823781033</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1667823781033</updated>
-    </task>
-    <task id="LOCAL-00026" summary="git commit -m &quot;ArrayProblem&quot;">
-      <created>1667824736187</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1667824736187</updated>
     </task>
     <task id="LOCAL-00027" summary="git commit -m &quot;ArrayProblem&quot;">
       <created>1667832712766</created>
@@ -440,7 +427,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670175851678</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="git commit -m &quot;2D ArrayProblem&quot;">
+      <created>1670523367249</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1670523367250</updated>
+    </task>
+    <task id="LOCAL-00075" summary="git commit -m &quot;2D ArrayProblem&quot;">
+      <created>1670523449750</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1670523449750</updated>
+    </task>
+    <option name="localTasksCounter" value="76" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
